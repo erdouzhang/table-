@@ -1,0 +1,8 @@
+.container table {
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+}
+.container table td {
+  border: 1px solid #ddd;
+  padding: 10px 10px;
+}
